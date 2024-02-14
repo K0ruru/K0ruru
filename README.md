@@ -80,15 +80,15 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 ## Some Nerd Stats
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k0ruru&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"  style="width: 500px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k0ruru&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"  style="width: 350px" />
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k0ruru&theme=midnight-purple&hide_border=true"  style="width: 500px; height: 208px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k0ruru&theme=midnight-purple&hide_border=true"  style="width: 350px; height: 208px"/>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0ruru&theme=midnight-purple&hide_border=true&layout=compact" align="center" style="width: 500px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0ruru&theme=midnight-purple&hide_border=true&layout=compact" align="center" style="width: 350px" />
 </div>
 
 
