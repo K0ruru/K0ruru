@@ -2,6 +2,9 @@
 
 <p align="left">Crafting digital realms since 2016, I thrive on challenges and chaos. A web developer from Indonesia, I speak the languages of React, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Flutter, C++, and more. Dockerizing my dreams, dancing with databases (PostgreSQL, MongoDB), and expressing myself with Express.js.</p>
 
+<br clear="both">
+<br clear="both">
+
 <h3 align="left">🚀 Some Tools in My Arsenal 🚀</h3>
 
 <div align="left">
@@ -31,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
+<br clear="both">
 <br clear="both">
 
 <p align="left">Let's Connect!</p>
