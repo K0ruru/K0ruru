@@ -64,7 +64,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<br clear="both">
+<br clear="both">
+
 <h3 align="left">My top repos :3</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=K0ruru&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=K0ruru&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 
