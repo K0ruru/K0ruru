@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=k0ruru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=k0ruru&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0ruru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=K0ruru&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 
 <br clear="both">
@@ -67,7 +68,10 @@
 <br clear="both">
 <br clear="both">
 
-<h3 align="left">My top repos :3</h3>
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=K0ruru&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<h3 align="left">A random meme to light up your day</h3>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+
 
 
