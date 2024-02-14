@@ -68,6 +68,7 @@
 <br clear="both">
 
 <h3 align="left">A random meme to light up your day</h3>
+<br clear="both">
 <div align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></div>
 
 
