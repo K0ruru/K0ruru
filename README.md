@@ -4,7 +4,7 @@
 <a href="https://github.com/k0ruru" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/@justobeyy" target="_blank">
+<a href="https://instagram.com/justobeyy" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
@@ -35,8 +35,8 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 
 </td><td valign="top" width="50%">
 
-<div align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJrOXJjNm05eHo1NW9pcTRsdXF0OGt3eDJkODY5Z2dqOTYzbng4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3NF3JvE1mOsOXb8l3/giphy.gif" align="right" height="200" width="250" />
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJrOXJjNm05eHo1NW9pcTRsdXF0OGt3eDJkODY5Z2dqOTYzbng4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3NF3JvE1mOsOXb8l3/giphy.gif" align="center" height="200" width="250" />
 </div>  
 
 
