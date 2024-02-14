@@ -1,4 +1,4 @@
-<h2 align="left">👾 Heya, I'm K0ruru! 👾</h2>
+<h1 align="left">👾 Heya, I'm K0ruru! 👾</h1>
 
 <p align="left">Crafting digital realms since 2016, I thrive on challenges and chaos. A web developer from Indonesia, I speak the languages of React, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Flutter, C++, and more. Dockerizing my dreams, dancing with databases (PostgreSQL, MongoDB), and expressing myself with Express.js.</p>
 
@@ -6,6 +6,7 @@
 <br clear="both">
 
 <h3 align="left">🚀 Some Tools in My Arsenal 🚀</h3>
+<hr />
 
 <div align="left">
   <div align="left">
