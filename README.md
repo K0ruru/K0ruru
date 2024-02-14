@@ -6,7 +6,6 @@
 <br clear="both">
 
 <h3 align="left">🚀 Some Tools in My Arsenal 🚀</h3>
-<hr />
 
 <div align="left">
   <div align="left">
@@ -34,9 +33,9 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
+<br clear="both">
 
-<br clear="both">
-<br clear="both">
+<p align="left">I like to learn and try out new stuff so maybe this list will change in the future... <br> i hope...</p>
 
 <br clear="both">
 <br clear="both">
