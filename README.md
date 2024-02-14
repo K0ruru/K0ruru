@@ -1,19 +1,11 @@
-<h2 align="left">Heiya!! Im K0ruru im a web devvloper from Indonesia :3</h2>
+<h2 align="left">👾 Heya, I'm K0ruru! 👾</h2>
 
-###
+<p align="left">Crafting digital realms since 2016, I thrive on challenges and chaos. A web developer from Indonesia, I speak the languages of React, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Flutter, C++, and more. Dockerizing my dreams, dancing with databases (PostgreSQL, MongoDB), and expressing myself with Express.js.</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k0ruru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=k0ruru&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">Some of the things i use...</h3>
-
-###
+<h3 align="left">🚀 Some Tools in My Arsenal 🚀</h3>
 
 <div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
@@ -39,13 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-<p align="left">Ways to reach out :)</p>
-
-###
+<p align="left">Let's Connect!</p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -54,4 +42,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k0ruru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=k0ruru&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+<p align="left">Keep coding boldly, and may your bugs be ever elusive! 🎉</p>
