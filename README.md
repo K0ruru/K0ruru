@@ -56,5 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0ruru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
 
-<p align="left">Keep coding boldly, and may your bugs be ever elusive! 🎉</p>
+<p align="center">"It's not about how hard you hit. It's about how hard you can get hit and keep moving forward." -Saitama</p>
