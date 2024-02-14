@@ -11,6 +11,7 @@
 ![k0ruru Graph](https://github-readme-activity-graph.vercel.app/graph?username=k0ruru&custom_title=yzkthreadz%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 <br><br>
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=k0ruru&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###
   <img src="https://github-profile-trophy.vercel.app?username=k0ruru&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
