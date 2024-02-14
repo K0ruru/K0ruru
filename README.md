@@ -21,7 +21,7 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [School Gaz](https://github.com/rishavanand/github-profilinator) as a full stack dev  
+- 🔭 I’m currently working on [School Gaz](https://github.com/K0ruru/SchoolGaz) as a full stack dev  
   
 
 - 🌱 I’m currently learning Flutter and Docker  
