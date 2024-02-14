@@ -95,6 +95,10 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 
 <br/>  
 
+## A meme to light up your day :)
+<br clear="both">
+<div align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></div>
+
   
 
 <br/>  
