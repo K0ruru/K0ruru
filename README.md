@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/K0ruru/K0ruru/assets/110281824/1fd1b13e-e7af-4ad1-be41-cbc212a79b53)## Heiya! i'm k0ruru another web developer on GitHub :)  
+## Heiya! i'm k0ruru another web developer on GitHub :)  
   
 
 <a href="https://github.com/k0ruru" target="_blank">
