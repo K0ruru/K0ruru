@@ -1,4 +1,4 @@
-## Heiya! i'm k0ruru another web developer on GitHub :)  
+![ClipWindowsGIF](https://github.com/K0ruru/K0ruru/assets/110281824/1fd1b13e-e7af-4ad1-be41-cbc212a79b53)## Heiya! i'm k0ruru another web developer on GitHub :)  
   
 
 <a href="https://github.com/k0ruru" target="_blank">
@@ -18,7 +18,7 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 <br/>  
 
 
-## Rapidfire  
+## Rapidfire 🔥
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [School Gaz](https://github.com/K0ruru/SchoolGaz) as a full stack dev  
@@ -45,7 +45,7 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools 💻
 <div align="center">  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="17" />
@@ -79,7 +79,7 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 <br/>  
 
 
-## Some Nerd Stats
+## Some Nerd Stats 📊
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k0ruru&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"  style="width: 350px" />
@@ -97,7 +97,7 @@ I've been making bugs and stuff since 2018, i thrive on challenges and chaos. I 
 
 <br/>  
 
-## A meme to light up your day :)
+## A meme to light up your day 😄
 <br clear="both">
 <div align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></div>
 
